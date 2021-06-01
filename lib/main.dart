@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
           title: title,
           theme: ThemeData(
             primarySwatch: Colors.lightGreen,
-            scaffoldBackgroundColor: Colors.white,
+            scaffoldBackgroundColor: Colors.orange[100],
           ),
           home: HomePage(),
         ),

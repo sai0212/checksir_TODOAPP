@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(20),
         ),
-        backgroundColor: Colors.amberAccent,
+        backgroundColor: Colors.amber[700],
         onPressed: () => showDialog(
           context: context,
           builder: (context) => AddTodoDialogWidget(),
