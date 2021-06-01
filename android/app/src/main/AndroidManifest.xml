@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.todo_app_firestore_example">
+    package="com.example.checksir_todoapp">
    <application
-        android:label="todo_app_firestore_example"
+        android:label="checksir_todoapp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
