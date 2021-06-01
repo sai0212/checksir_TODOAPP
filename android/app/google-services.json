@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922440954474",
+    "project_id": "todo-5f8d4",
+    "storage_bucket": "todo-5f8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922440954474:android:022b12f783199651091013",
+        "android_client_info": {
+          "package_name": "saiaddanki.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922440954474-jhlopgppglvi38pm2tavjjtaktd8rf0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saiaddanki.todo",
+            "certificate_hash": "4c744f7f7a351e755e716f2d741c44c393112259"
+          }
+        },
+        {
+          "client_id": "922440954474-heuha8qh49iatkjtoh38jr8hm5ki9l3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgkbd_Fpvv1vULQgT_YrOW-yuBUL5FnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922440954474-heuha8qh49iatkjtoh38jr8hm5ki9l3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
