@@ -1,4 +1,4 @@
-package com.example.todo_app_firestore_example
+package saiaddanki.todo
 
 import io.flutter.embedding.android.FlutterActivity
 
